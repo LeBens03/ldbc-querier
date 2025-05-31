@@ -55,7 +55,7 @@ ldbc_project/
 │   │   ├── components/
 │   │   │   ├── Person.jsx
 │   │   │   ├── Post.jsx
-│   │   │   ├── OrganizationCard.jsx
+│   │   │   ├── Organization.jsx
 │   │   │   ├── MostAcquaintances.jsx
 │   │   │   └── LanguageCount.jsx
 │   │   ├── App.jsx

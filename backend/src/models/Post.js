@@ -3,12 +3,12 @@ import mongoose from 'mongoose';
 const postSchema = new mongoose.Schema({
   creationDate: {
     type: String,
-    required: true, // Marked as required
+    required: true, 
   },
   id: {
     type: String, 
     unique: true,
-    required: true, // Marked as required
+    required: true, 
   },
   imageFile: {
     type: String,
@@ -16,11 +16,11 @@ const postSchema = new mongoose.Schema({
   },
   locationIP: {
     type: String,
-    required: true, // Marked as required
+    required: true, 
   },
   browserUsed: {
     type: String,
-    required: true, // Marked as required
+    required: true, 
   },
   language: {
     type: String,
@@ -30,19 +30,19 @@ const postSchema = new mongoose.Schema({
   },
   length: {
     type: String,
-    required: true, // Marked as required
+    required: true, 
   },
   CreatorPersonId: {
     type: String,
-    required: true, // Marked as required
+    required: true, 
   },
   ContainerForumId: {
     type: String,
-    required: true, // Marked as required
+    required: true, 
   },
   LocationCountryId: {
     type: String,
-    required: true, // Marked as required
+    required: true, 
   },
 });
 

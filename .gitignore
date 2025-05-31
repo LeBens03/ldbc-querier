@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Copilot files
+SEPARATION_GUIDE.md
+*.keep
+copilot-instructions.md

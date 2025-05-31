@@ -12,6 +12,7 @@ export default function MostAcquaintances({ open, onClose, persons }) {
                     left: '50%',
                     transform: 'translate(-50%, -50%)',
                     bgcolor: 'background.paper',
+                    color: 'text.primary',
                     boxShadow: 24,
                     p: 3,
                     borderRadius: 2,

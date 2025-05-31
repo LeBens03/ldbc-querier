@@ -341,7 +341,7 @@ export default function App() {
                     position: 'absolute',
                     left: 0,
                     right: 0,
-                    bottom: 60,
+                    bottom: 100,
                     display: 'flex',
                     flexDirection: 'row',
                     gap: 1,
