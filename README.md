@@ -184,19 +184,3 @@ npm run dev
 ## License
 
 MIT License
-
----
-
-## Credits
-
-- [LDBC Social Network Benchmark](https://ldbcouncil.org/ldbc_snb_docs/)
-- [Neo4j](https://neo4j.com/)
-- [MongoDB](https://www.mongodb.com/)
-- [Material-UI](https://mui.com/)
-- [Vite](https://vitejs.dev/)
-
----
-
-## Contact
-
-For questions or contributions, open an issue or contact [benslimanetaha03@gmail.com](mailto:benslimanetaha03@gmail.com).
